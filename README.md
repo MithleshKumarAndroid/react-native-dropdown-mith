@@ -3,9 +3,9 @@ react-native-dropdown-mith is fully customize library , that is used both Platfo
 
 # Getting started
 ```sh
- npm install react-native-dropdown-mith
+ npm i react-native-drop-down-mith
 
- yarn add react-native-dropdown-mith
+ yarn add react-native-drop-down-mith
 ```
 # Demo
  <p align="center">

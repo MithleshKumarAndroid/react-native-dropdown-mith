@@ -1,6 +1,6 @@
 {
   "name": "react-native-drop-down-mith",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "react-native-dropdown-mith is fully customize library , that is used both Platform Android and Ios.",
   "main": "lib/index.js",
   "scripts": {
