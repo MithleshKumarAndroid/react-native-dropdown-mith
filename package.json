@@ -1,14 +1,15 @@
 {
   "name": "react-native-drop-down-mith",
   "version": "1.0.0",
-  "description": "Testing drop-down",
+  "description": "react-native-dropdown-mith is fully customize library , that is used both Platform Android and Ios.",
   "main": "lib/index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "publish": "npm publish"
   },
   "repository": {
     "type": "git",
-    "url": "mithlesh"
+    "url": "https://github.com/MithleshKumarAndroid/react-native-dropdown-mith.git"
   },
   "keywords": [
     "react-native",
