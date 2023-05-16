@@ -1,33 +1,16 @@
-# Description
+# react-native-dropdown-mith 
+react-native-dropdown-mith is fully customize library , that is used both Platfrom Android and Ios.
 
-react-native-drop-down-mith is highly customizable. that is used both Android and IOS Platform.
+# Getting started
+ npm install react-native-dropdown-mith
 
-## Installation
-
-# Using Npm
-
-npm install react-native-drop-down-mith
-
-# Using Yarn
-
-yarn add react-native-drop-down-mith
+ yarn add react-native-dropdown-mith
 
 # Demo
-
-<!-- <p align="center">
+ <p align="center">
   <img width="250" src="./src/assets/icon.png"><img width="250" src="./src/assets/icon2.png">
-</p> -->
-// App.jsx
-import {Toast} from 'react-native-toast-mith';
+</p>
 
-export function App(props) {
-  return (
-    <>
-      {/* ... */}
-      <Toast />
-    </>
-  );
-}
 
 # Code
 import React from 'react';
@@ -58,6 +41,3 @@ const Home = () => {
     </SafeAreaView>
   );
 };
-
-
-export default Home;
