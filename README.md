@@ -1,5 +1,5 @@
 # react-native-dropdown-mith 
-react-native-dropdown-mith is fully customize library , that is used both Platfrom Android and Ios.
+react-native-dropdown-mith is fully customize library , that is used both Platform Android and Ios.
 
 # Getting started
 ```sh
@@ -11,6 +11,24 @@ react-native-dropdown-mith is fully customize library , that is used both Platfr
  <p align="center">
   <img width="250" src="./src/assets/icon.png"><img width="250" src="./src/assets/icon2.png">
 </p>
+
+# Properties
+
+| containerStyle   | Style             | Main View                     |
+| :-----:          | :---:             | :---:                         |
+| dropDownStyle    | Style             | Listview Styles               |
+| :-----:          | :---:             | :---:                         |
+| data             | []                | { id: number; value: string } |
+| :-----:          | :---:             | :---:                         |
+| title            | String            | ""                            |
+| :-----:          | :---:             | :---:                         |
+| titleStyle       | TextStyle         | Main title style              |
+| :-----:          | :---:             | :---:                         |
+| placeHolder      | String            | ""                            |
+| :-----:          | :---:             | :---:                         |
+| itemTextStyle    | TextStyle         | ""                            |
+| :-----:          | :---:             | :---:                         |
+| selectedTextStyle| TextStyle         | ""                            |
 
 
 
