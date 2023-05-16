@@ -24,7 +24,7 @@ react-native-dropdown-mith is fully customize library , that is used both Platfo
 | itemTextStyle    | TextStyle         | ""                            |
 | selectedTextStyle| TextStyle         | ""                            |
 
-
+# Code 
 
 ```js
 import React from 'react';
