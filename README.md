@@ -17,7 +17,17 @@ yarn add react-native-drop-down-mith
 <!-- <p align="center">
   <img width="250" src="./src/assets/icon.png"><img width="250" src="./src/assets/icon2.png">
 </p> -->
+// App.jsx
+import {Toast} from 'react-native-toast-mith';
 
+export function App(props) {
+  return (
+    <>
+      {/* ... */}
+      <Toast />
+    </>
+  );
+}
 
 # Code
 import React from 'react';
