@@ -14,9 +14,9 @@ yarn add react-native-drop-down-mith
 
 # Demo
 
-<p align="center">
+<!-- <p align="center">
   <img width="250" src="./src/assets/icon.png"><img width="250" src="./src/assets/icon2.png">
-</p>
+</p> -->
 
 
 # Code
