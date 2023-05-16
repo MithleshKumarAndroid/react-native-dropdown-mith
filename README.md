@@ -15,19 +15,12 @@ react-native-dropdown-mith is fully customize library , that is used both Platfo
 # Properties
 
 | containerStyle   | Style             | Main View                     |
-| :-----:          | :---:             | :---:                         |
 | dropDownStyle    | Style             | Listview Styles               |
-| :-----:          | :---:             | :---:                         |
 | data             | []                | { id: number; value: string } |
-| :-----:          | :---:             | :---:                         |
 | title            | String            | ""                            |
-| :-----:          | :---:             | :---:                         |
 | titleStyle       | TextStyle         | Main title style              |
-| :-----:          | :---:             | :---:                         |
 | placeHolder      | String            | ""                            |
-| :-----:          | :---:             | :---:                         |
 | itemTextStyle    | TextStyle         | ""                            |
-| :-----:          | :---:             | :---:                         |
 | selectedTextStyle| TextStyle         | ""                            |
 
 
