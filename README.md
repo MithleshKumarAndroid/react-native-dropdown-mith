@@ -14,6 +14,7 @@ react-native-dropdown-mith is fully customize library , that is used both Platfo
 
 # Properties
 
+```sh
 | containerStyle   | Style             | Main View                     |
 | dropDownStyle    | Style             | Listview Styles               |
 | data             | []                | { id: number; value: string } |
@@ -22,7 +23,7 @@ react-native-dropdown-mith is fully customize library , that is used both Platfo
 | placeHolder      | String            | ""                            |
 | itemTextStyle    | TextStyle         | ""                            |
 | selectedTextStyle| TextStyle         | ""                            |
-
+```
 
 
 ```js
