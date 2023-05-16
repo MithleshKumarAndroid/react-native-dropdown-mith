@@ -1,0 +1,48 @@
+{
+  "name": "react-native-drop-down-mith",
+  "version": "1.0.0",
+  "description": "Testing drop-down",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mithlesh"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "ios",
+    "dropdown",
+    "select",
+    "option",
+    "selector",
+    "picker",
+    "menu",
+    "modal",
+    "drop-down",
+    "list",
+    "drop-down-picker"
+  ],
+  "author": "Mithlesh kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "@react-native-community/eslint-config": "^3.2.0",
+    "@types/jest": "^29.5.1",
+    "@types/react": "^18.2.0",
+    "@types/react-native": "^0.71.6",
+    "babel-jest": "^29.5.0",
+    "del-cli": "^5.0.0",
+    "eslint": "^8.39.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "husky": "^8.0.3",
+    "jest": "^29.5.0",
+    "lint-staged": "^13.2.2",
+    "prettier": "^2.8.8",
+    "react-test-renderer": "^18.2.0",
+    "release-it": "^15.10.3",
+    "typescript": "^5.0.4"
+  }
+}
